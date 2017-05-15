@@ -7,6 +7,6 @@ The project uses the cdk v.1.5 and cdk-jchempaint-26.
 After four years, I just revisited this code and I am so ashamed of how my older self codes.
 But, I am planning to rework it on my free time:
 
-[ ] Migrate to Python
-[ ] Improve implementation design and optimize
-[ ] Apply RNN
+- [ ] Migrate to Python
+- [ ] Improve implementation design and optimize
+- [ ] Incorporate RNN-LSTM

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extender-units>
+
+	<anExtenderUnit>
+		<name>Malonyl-CoA</name>
+		<SMILES-forward>XXX</SMILES-forward>
+		<SMILES-backward>C</SMILES-backward>
+		<image>Malonyl-CoA.jpg</image>
+		<description></description>
+	</anExtenderUnit>
+
+	<anExtenderUnit>
+		<name>Ethylmalonyl-CoA</name>
+		<SMILES-forward>(CC)</SMILES-forward>
+		<SMILES-backward>C(CC)</SMILES-backward>
+		<image>Ethylmalonyl-CoA.jpg</image>
+		<description></description>
+	</anExtenderUnit>
+
+	<anExtenderUnit>
+		<name>Hydroxymalonyl-CoA</name>
+		<SMILES-forward>(O)</SMILES-forward>
+		<SMILES-backward>C(O)</SMILES-backward>
+		<image>Hydroxymalonyl-CoA.jpg</image>
+		<description></description>
+	</anExtenderUnit>
+
+	<anExtenderUnit>
+		<name>Methylmalonyl-CoA</name>
+		<SMILES-forward>(C)</SMILES-forward>
+		<SMILES-backward>C(C)</SMILES-backward>
+		<image>Methylmalonyl-CoA.jpg</image>
+		<description></description>
+	</anExtenderUnit>
+	
+</extender-units>

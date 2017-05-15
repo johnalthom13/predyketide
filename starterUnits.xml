@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<starter-units>
+
+	<aStarterUnit>
+		<name>Acetoacetyl-CoA</name>
+		<SMILES-forward>C(=O)C</SMILES-forward>
+		<SMILES-backward>CC(=O)C</SMILES-backward>
+		<image>Acetoacetyl-CoA.jpg</image>
+		<description></description>
+	</aStarterUnit>
+	
+	<aStarterUnit>
+		<name>2-Methylbutyryl-CoA</name>
+		<SMILES-forward>(C)CC</SMILES-forward>
+		<SMILES-backward>CCC(C)</SMILES-backward>
+		<image>2-Methylbutyryl-CoA.jpg</image>
+		<description></description>
+	</aStarterUnit>
+	
+	<aStarterUnit>
+		<name>3,4-DHCHC-CoA</name>
+		<SMILES-forward>1CC(O)C(O)CC1</SMILES-forward>
+		<SMILES-backward>C1CC(O)C(O)CC1</SMILES-backward>
+		<image>3_4_DHCHC_CoA.jpg</image>
+		<description></description>
+	</aStarterUnit>	
+	
+	<aStarterUnit>
+		<name>3,5-AHBA</name>
+		<SMILES-forward>1C=C(O)C=C(N)C=1</SMILES-forward>
+		<SMILES-backward>C1=C(O)C=C(N)C=C1</SMILES-backward>
+		<image>3_5_AHBA_CoA.jpg</image>
+		<description></description>
+	</aStarterUnit>
+	
+	<aStarterUnit>
+		<name>3-Methylbutyryl-CoA</name>
+		<SMILES-forward>CC(C)C</SMILES-forward>
+		<SMILES-backward>CC(C)C</SMILES-backward>
+		<image>3-Methylbutyryl-CoA.jpg</image>
+		<description></description>
+	</aStarterUnit>
+	
+	<aStarterUnit>
+		<name>Acetyl-CoA</name>
+		<SMILES-forward>XXX</SMILES-forward>
+		<SMILES-backward>C</SMILES-backward>
+		<image>Acetyl-CoA.jpg</image>
+		<description></description>
+	</aStarterUnit>
+	
+	<aStarterUnit>
+		<name>Benzonyl-CoA</name>
+		<SMILES-forward>1=CC=CC=C1</SMILES-forward>
+		<SMILES-backward>C1C=CC=CC1</SMILES-backward>
+		<image>Benzoyl-CoA.jpg</image>
+		<description></description>
+	</aStarterUnit>
+	
+	<aStarterUnit>
+		<name>Butyryl-CoA</name>
+		<SMILES-forward>CC</SMILES-forward>
+		<SMILES-backward>CCC</SMILES-backward>
+		<image>Butyryl-CoA.jpg</image>
+		<description></description>
+	</aStarterUnit>
+	
+	<aStarterUnit>
+		<name>Cyclohexanecarboxylic acid</name>
+		<SMILES-forward>1CCCCC1</SMILES-forward>
+		<SMILES-backward>C1CCCCC1</SMILES-backward>
+		<image>CHC.jpg</image>
+		<description></description>
+	</aStarterUnit>
+	
+	<aStarterUnit>
+		<name>Glycine</name>
+		<SMILES-forward>N</SMILES-forward>
+		<SMILES-backward>NC</SMILES-backward>
+		<image>Glycine.jpg</image>
+		<description></description>
+	</aStarterUnit>
+	
+	<aStarterUnit>
+		<name>Glycolate</name>
+		<SMILES-forward>O</SMILES-forward>
+		<SMILES-backward>OC</SMILES-backward>
+		<image>Glycolate.jpg</image>
+		<description></description>
+	</aStarterUnit>
+	
+	<aStarterUnit>
+		<name>p-Aminobenzoate</name>
+		<SMILES-forward>1C=CC(N)=CC=1</SMILES-forward>
+		<SMILES-backward>C1=CC(N)=CC=C1</SMILES-backward>
+		<image>p-Aminobenzoate.jpg</image>
+		<description></description>
+	</aStarterUnit>
+	
+	<aStarterUnit>
+		<name>Phenylacetyl-CoA</name>
+		<SMILES-forward>1C=CC=CC=1</SMILES-forward>
+		<SMILES-backward>C1=CC=CC=C1</SMILES-backward>
+		<image>Phenylacetyl-CoA.jpg</image>
+		<description></description>
+	</aStarterUnit>
+	
+	<aStarterUnit>
+		<name>p-Nitrobenzoate</name>
+		<SMILES-forward>1C=CC(NO)=CC=1</SMILES-forward>
+		<SMILES-backward>C1=CC(NO)=CC=C1</SMILES-backward>
+		<image>p-Nitrobenzoate.jpg</image>
+		<description></description>
+	</aStarterUnit>
+	
+	<aStarterUnit>
+		<name>Propionyl-CoA</name>
+		<SMILES-forward>C</SMILES-forward>
+		<SMILES-backward>CC</SMILES-backward>
+		<image>Propionyl-CoA.jpg</image>
+		<description></description>
+	</aStarterUnit>
+	
+	<aStarterUnit>
+		<name>trans-1,2-CPDA</name>
+		<SMILES-forward>1C(C(=O)(O))CCC1</SMILES-forward>
+		<SMILES-backward>C1CCC(C(=O)(O))C1</SMILES-backward>
+		<image>trans-1_2-CPDA.jpg</image>
+		<description></description>
+	</aStarterUnit>
+	
+</starter-units>
